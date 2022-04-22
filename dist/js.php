@@ -1,0 +1,9 @@
+<script src="dist/js/jquery.js"></script>
+<script src="dist/js/jquery-1.11.1.min.js"></script>
+<script src="dist/js/bootstrap.min.js"></script>
+<script src="dist/js/bootstrap-imageupload.js"></script>
+<script src="dist/datatables/jquery.dataTables.js"></script>
+<script src="dist/datatables/dataTables.bootstrap.js"></script>	
+<script src="dist/sweetalert/sweetalert.min.js"></script>
+<script src="dist/js/moment.js"></script>
+<script src="dist/js/bootstrap-datetimepicker.min.js"></script>
